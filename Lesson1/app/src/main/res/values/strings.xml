@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lesson1</string>
+    <string name="mainTitle">Lesson1</string>
+    <string name="btnGoToFirst">Go to the first exercise</string>
+    <string name="btnGoToSecond">Go to the second exercise</string>
+    <string name="btnGoToThird">Go to the third exercise</string>
+    <string name="btnShowMonth">Show month</string>
+
+    <!-- Exercise 1 -->
+        <!-- Error messages -->
+        <string name="txtValidMonthNumber">Enter a number between 1 and 12.</string>
+        <string name="txtValidNumber">Enter a valid number.</string>
+
+        <!-- Months -->
+        <string-array name="monthArray">
+            <item>January</item>
+            <item>February</item>
+            <item>March</item>
+            <item>April</item>
+            <item>May</item>
+            <item>June</item>
+            <item>July</item>
+            <item>August</item>
+            <item>September</item>
+            <item>October</item>
+            <item>November</item>
+            <item>December</item>
+        </string-array>
+</resources>
