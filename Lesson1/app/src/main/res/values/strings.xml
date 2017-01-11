@@ -7,6 +7,7 @@
     <string name="btnShowMonth">Show month</string>
 
     <!-- Exercise 1 -->
+        <string name="hintNumberMonth">Enter number month</string>
         <!-- Error messages -->
         <string name="txtValidMonthNumber">Enter a number between 1 and 12.</string>
         <string name="txtValidNumber">Enter a valid number.</string>
@@ -26,4 +27,18 @@
             <item>November</item>
             <item>December</item>
         </string-array>
+
+    <!-- Exercise 2 -->
+        <string name="firstNumber">First number</string>
+        <string name="secondNumber">Second number</string>
+        <string name="operator">Operator</string>
+        <string name="result">Result</string>
+        <string name="calculate">Calculate</string>
+        <!-- Error messages -->
+        <string name="txtValidOperator">Enter a valid operator.</string>
+
+    <!-- Exercise 3 -->
+    <string name="showLine">Show Lines</string>
+    <string name="lines">Lines</string>
+    <string name="numberOfLines">Number of Lines:</string>
 </resources>
