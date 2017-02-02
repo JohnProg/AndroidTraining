@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson5</string>
+    <string name="title">Chronometer</string>
+    <string name="initValueChronometer">00:00:00</string>
+    <string name="btnStart">Start</string>
+    <string name="btnStop">Stop</string>
+    <string name="btnRestart">Restart</string>
+    <string name="startChronometer">Start Chronometer</string>
+    <string name="continueChronometer">Continue chronometer</string>
+</resources>
